@@ -21,7 +21,6 @@
     "node-libs-browser": "^2.0.0",
     "schema-utils": "^0.4.2",
     "tapable": "^1.0.0",
-    "typescript": "^2.8.1",
     "uglifyjs-webpack-plugin": "^1.2.4",
     "watchpack": "^1.5.0",
     "webpack-sources": "^1.0.1"
@@ -68,6 +67,7 @@
     "webpack-cli": "^2.0.14",
     "webpack-dev-middleware": "^1.9.0",
     "worker-loader": "^1.1.0",
+    "typescript": "^2.8.1",
     "xxhashjs": "^0.2.1"
   },
   "engines": {

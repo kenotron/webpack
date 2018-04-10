@@ -5,16 +5,16 @@
 {{example.js}}
 ```
 
-# cup1.coffee
+# cup1.ts
 
-``` coffee-script
-{{cup1.coffee}}
+``` ts
+{{cup1.ts}}
 ```
 
 # cup2.coffee
 
-``` coffee-script
-{{cup2.coffee}}
+``` ts
+{{cup2.ts}}
 ```
 
 # dist/output.js
