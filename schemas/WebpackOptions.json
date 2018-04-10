@@ -940,7 +940,8 @@
             "javascript/dynamic",
             "javascript/esm",
             "json",
-            "webassembly/experimental"
+            "webassembly/experimental",
+            "typescript/experimental"
           ]
         },
         "resource": {
